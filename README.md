@@ -84,10 +84,10 @@ skatteberegning inkludert.
 ![Dashboard](screenshots/dashboard.png)
 
 ### Legg til vakt
-![Legg til vakt](screenshots/leggtilvakt.png)
+![Legg til vakt](screenshots/legg-til-vakt.png)
 
 ### Inntektsoversikt
-![Inntekt](screenshots/inntektsoversikt.png)
+![Inntekt](screenshots/inntekt.png)
 
 ---
 
